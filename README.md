@@ -39,6 +39,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Capcut para tratar aúdio e adicionar sons de fundo
 
  - ``` Os prompts utilizados estão na pasta "Prompts" ```
+ - ```O áudio do poscast está na pasta "Outputs" ```
 
 ---
 # Autor
