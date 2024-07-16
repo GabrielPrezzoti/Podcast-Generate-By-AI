@@ -38,6 +38,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Microsoft Copilot Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
+ - ``` Os prompts utilizados estão na pasta "Prompts" ```
+
 ---
 # Autor
 <p>
